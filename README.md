@@ -7,6 +7,7 @@ Monitoring Metrics is a Component library designed to help you monitor and track
 - **Click Tracking:** Monitor the number of times elements are clicked.
 - **Page View Tracking:** Track the number of views each page receives.
 - **Download Tracking:** Log and count file downloads.
+- **And Many More:** More feature under development.
 
 ## Installation
 
